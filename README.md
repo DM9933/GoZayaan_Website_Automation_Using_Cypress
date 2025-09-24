@@ -1,1 +1,1 @@
-# GoZayaan_Website_Automation_Using_Cypress
+# web-automation-with-cypress
